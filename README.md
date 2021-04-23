@@ -3,7 +3,7 @@
 </div>
 
 <h4 align="center">
-  Podcastr é uma plataforma de podcasts ensinado pela Rocketseat.
+  Podcastr é uma plataforma de podcasts ensinada pela Rocketseat.
 </h4>
 
 ![Podcastr preview](https://ik.imagekit.io/4d2zqchevzp/Capa_7ZxOmFZKhJ.png)
@@ -17,7 +17,7 @@
 ## Educadores 
 
 - [Rocketseat](https://rocketseat.com.br/)
-- Diego Fernandes [Instagram](https://www.instagram.com/dieegosf/) [Twitter](https://twitter.com/dieegosf) [Twitch](https://www.twitch.tv/dieegosf)
+- Diego Fernandes - [Instagram](https://www.instagram.com/dieegosf/) - [Twitter](https://twitter.com/dieegosf) - [Twitch](https://www.twitch.tv/dieegosf)
 
 ## Como usar
 
