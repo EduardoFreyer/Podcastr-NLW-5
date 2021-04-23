@@ -3,7 +3,7 @@
 </div>
 
 <h4 align="center">
-  Podcastr is a platform built for podcast broadcasting.
+  Podcastr é uma plataforma de podcasts ensinado pela [Rocketseat](https://rocketseat.com.br/).
 </h4>
 
 ![Podcastr preview](https://ik.imagekit.io/4d2zqchevzp/Capa_7ZxOmFZKhJ.png)
