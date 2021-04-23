@@ -3,7 +3,7 @@
 </div>
 
 <h4 align="center">
-  Podcastr é uma plataforma de podcasts ensinado pela [Rocketseat](https://rocketseat.com.br/).
+  Podcastr é uma plataforma de podcasts ensinado pela Rocketseat.
 </h4>
 
 ![Podcastr preview](https://ik.imagekit.io/4d2zqchevzp/Capa_7ZxOmFZKhJ.png)
@@ -13,6 +13,11 @@
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
+
+## Educadores 
+
+- [Rocketseat](https://rocketseat.com.br/)
+- Diego Fernandes [Instagram](https://www.instagram.com/dieegosf/) [Twitter](https://twitter.com/dieegosf) [Twitch](https://www.twitch.tv/dieegosf)
 
 ## Como usar
 
